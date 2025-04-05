@@ -1,3 +1,10 @@
+## 🌐 Live Demo
+
+🔗 https://form-two-ivory.vercel.app/
+
+Hosted on [Vercel](https://vercel.com/)
+
+
 # 🚀 Form Registration UI (Vite + React)
 
 A sleek and modern multi-step user registration flow built with **React** and **Vite**. This project simulates a sign-up experience similar to PopX with animations, state management, and page transitions.
